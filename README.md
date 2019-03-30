@@ -16,3 +16,7 @@ Python scripts to automatically crawl Twitter, Soundcloud, Youtube and Instagram
 * Make a config file
 * Interface for data stored in MongoDB
 * Load Metadata from Youtube, Soundcloud and Instagram into DB
+* Use dateafter in youtube-dl
+* Use proxies (maybe cycle through them after each crawl)
+* Use delays and proxies to circumvent block (Soundcloud blocked after about 20GB)
+  * Especially for Twitter this will be relevant
